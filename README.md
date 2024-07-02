@@ -1,3 +1,3 @@
 # CODSOFT_ML_01
-here is my first project for mu CODSOFT ML internship 
+Here is my first project for my CODSOFT _ML internship 
 which is about genre movie classifier
